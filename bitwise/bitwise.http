@@ -1,0 +1,6 @@
+# @bitwise_HostAddress = http://localhost:5231
+
+# GET {{bitwise_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+# ###
