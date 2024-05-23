@@ -1,5 +1,4 @@
 # BitWiseEncoding
-Bitwise Encoding
 
 Bitwise encoding is a method of representing and manipulating data using binary digits (bits). Each bit can be either 0 or 1, allowing for efficient storage and processing of information. This technique is widely used in various applications, including data compression, error detection, cryptography, and more.
 Basics of Bitwise Encoding
